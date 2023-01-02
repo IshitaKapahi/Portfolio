@@ -1,0 +1,94 @@
+
+.ameerpret{
+    margin: 1.7rem;
+    height: 11rem;
+    width: 19rem;
+    background-color: white;
+    border-radius: 1.5rem;
+    padding: 0.5rem;
+  }
+  .bluebar {
+    border: 1px solid #96d4ff;
+    height: 2.8rem;
+    position:absolute;
+    left: 2.2rem;
+    width: 0.3rem;
+    background-color: #96d4ff;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+  }
+    
+  .text{
+    font-weight:bold;
+    font-size: 1rem;
+    
+  }
+  .div{
+    margin-block: 0.8rem;
+    padding:0.3rem;
+    
+  }
+  .User{
+    margin-left: 13rem;
+    padding: 0.8rem;
+    color: #aaaaaaaa;
+    font-weight: bold;
+    font-size: 0.7rem;
+   
+  }
+  .applications{
+    color: #aaaaaaaa;
+    display:inline;
+    font-size: 0.7rem;   
+  }
+  .scolor{
+    color: rgb(37, 226, 37);
+    display: inline;
+    margin-inline: 0.7rem;
+    background-color: rgb(236, 252, 239);
+    border-radius: 35%;
+    padding: 0.2rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+  .text2{
+    font-weight:bolder;
+    font-size: 1.1rem;
+    margin-inline: 1rem;
+  }
+  .border{
+    border-bottom: 0.1rem solid #f0f0f0; 
+    margin: 0.5rem;
+  }
+  .ameerpetcontainer{
+    display: flex;
+    gap: 1rem;
+    padding: 0.7rem;
+    margin-left: 0.5rem;
+  }
+  .leads{
+    height: 5rem;
+    width: 5rem; 
+  } 
+  .students{
+    height: 2.6rem;
+    width: 9rem;
+  }
+ 
+  .light{
+    color: #aaaaaaaa;
+    font-size: 0.9rem;
+    display: flex;
+  }
+  .dark{
+    color: black;
+    font-weight: bold;
+    font-size: 0.9rem;  
+  }
+  .border1{
+    height: 2.5rem;
+    border-left: 0.1rem solid #f0f0f0;
+    margin-left: 1.5rem;
+  }
+  
+ 

@@ -1,0 +1,59 @@
+.IELTS{
+    margin: 1.7rem;
+    height: 9rem;
+    width: 19rem;
+    background-color: white;
+    border-radius: 1.5rem;
+    padding: 0.5rem;
+    
+}
+.text12{
+    font-weight:bolder;
+    font-size: 0.8rem;
+    padding: 0.6rem;
+}
+.border4{
+  border-bottom: 0.1rem solid #f0f0f0; 
+  margin-top: 0.3rem;
+    
+  }
+  .orange{
+    display: flex;
+    padding: 0.6rem;
+    padding-left: 0.8rem;
+  }
+  .block3{ 
+    height: 4rem;
+    width: 5rem;
+    padding: 0.5rem; 
+  }
+  .block4{
+    margin-left: 1.5rem;
+    font-size: 0.8rem;
+    color: #FF8C00;
+  }
+  .b4{
+    padding-left: 3.9rem;
+  }
+  .block5{
+    margin-left: 1.6rem;
+    font-size: 0.8rem;
+    color: #aaaaaaaa;
+    margin-top: 0.3rem;
+  }
+  .b5{
+    padding: 1.8rem;
+  }
+  .block6{
+    margin-left: 1.5rem;
+    font-size: 0.8rem;
+    color: #FF8C00;
+    margin-top: 0.5rem;
+  }
+  .b6{
+    padding: 3.7rem;
+  }
+  .b7{
+    padding: 2rem;
+  }
+  

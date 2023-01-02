@@ -1,0 +1,113 @@
+
+.app{
+    margin: 2rem;
+    height: 11rem;
+    width: 15rem;
+    border-radius: 1.5rem;
+    padding: 0.5rem;
+    margin-inline: 5rem;
+  }
+  .text13{
+    padding: 1.8rem;
+    font-size: 0.7rem;
+    font-weight: bold;
+  }
+  .text14{
+    margin-left: 4rem;
+    color:darkblue;
+    background-color: lightblue;
+    border-radius: 38%;
+    padding: 0.2rem;
+    font-size: 0.6rem;
+  }
+  .KingsCollege{
+    margin: 1rem;
+    height: 7rem;
+    width: 12rem;
+    background-color: white;
+    border-radius: 1.5rem;
+    margin-top: 1.2rem;
+    padding: 1rem;
+  }
+  
+  .text15{
+    color:green;
+    background-color: lightgreen;
+    border-radius: 38%;
+    font-size: 0.6rem;
+    padding: 0.2rem;
+    
+  }
+  .text16{
+    color:orangered;
+    background-color: #FFD580;
+    border-radius: 38%;
+    font-size: 0.6rem;
+    padding: 0.2rem;
+    margin: 1.5rem;
+  }
+  .text17{
+    color:maroon;
+    background-color: pink;
+    border-radius: 30%;
+    font-size: 0.6rem;
+    padding: 0.2rem;
+    
+  }
+  .pic5{
+    width: 2.3rem;
+    padding: 0.6rem;
+    border-radius: 100%;
+    margin-top: 0.8rem;
+    display: inline;
+  }
+  .kings2{
+    height: 6rem;
+    width: 8rem;
+    background-color: yellow
+    
+
+  }
+  .oranges{
+    display: flex;
+    
+  }
+  .pictures{
+    height: 3rem;
+    width: 3rem; 
+}
+  .pic5{
+    width: 2.5rem;   
+  }
+  .block8{
+    padding: 0.5rem; 
+    margin-left: 0rem;
+  }
+  .text18{
+    color:black;
+    font-weight: bold;
+    padding: 0.5rem;
+    display: block;
+  }
+  .text19{
+    padding: 0.5rem;
+    color: #aaaaaaaa;
+  }
+  .text20{
+    display: block;
+    margin-left: 0.5rem;
+  }
+  .text21{
+    margin-left: 0.4rem;
+    font-weight: bold;
+    font-size: 0.7rem;
+  }
+  .text22{
+    margin-left: 0.3rem;
+  }
+  .text23{
+    display: block;
+    margin-left: 0.4rem;
+    font-size: 0.6rem;
+    color: #aaaaaaaa;
+  }
