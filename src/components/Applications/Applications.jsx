@@ -1,5 +1,5 @@
 import"./Applications.css"
-import pic5 from './../../assets/pic5.jpeg';
+
 export default function Applications(){
     return(
         <div className="app">
@@ -15,7 +15,7 @@ export default function Applications(){
                 </div> 
                 <div className="oranges"> 
         <div className="pictures">
-        <img src={pic5} className="pic5"/>
+        
         </div>
         <div className="block8">
             <span className="text18">Kings College London</span>
